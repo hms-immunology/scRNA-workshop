@@ -8,7 +8,6 @@
 -   [Introduction to R/Rstudio/Seurat](https://github.com/CellDiscoveryNetwork/workshops/tree/main/beginners-guide-to-analyzing-scRNAseq/prework)
     -   How to navigate Rstudio
     -   Fundamentals and data wrangling in R
-    -   Working with a Seurat object
 
 ## Day 2: Thursday Feb 27th
 
