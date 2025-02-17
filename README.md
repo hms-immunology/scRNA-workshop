@@ -4,31 +4,31 @@
 -   **Where**: TMEC 333 Conference Room
 
 ## Prework
--   [R-basics]()
+-   [R-basics](https://github.com/hms-immunology/scRNA-workshop/blob/main/prework/R-basics.R)
 
--   [Data Wrangling]()
+-   [Data Wrangling](https://github.com/hms-immunology/scRNA-workshop/blob/main/prework/data-wrangle-viz-practice.R)
 
 ## Day 1: Tuesday Feb 25th
 
--   [Introduction to R/Rstudio/Seurat](https://github.com/CellDiscoveryNetwork/workshops/tree/main/beginners-guide-to-analyzing-scRNAseq/prework)
+-   [Introduction to R/Rstudio](https://github.com/hms-immunology/intro-R-workshop)
     -   How to navigate Rstudio
     -   Fundamentals and data wrangling in R
--   [Introduction to Seurat]()
+-   [Introduction to Seurat](https://github.com/hms-immunology/scRNA-workshop/blob/main/day-1/1-Introduction.pdf)
     -   Working with a Seurat object
 
 ## Day 2: Thursday Feb 27th
 
--   [Basic sc-RNAseq workflow](https://github.com/CellDiscoveryNetwork/workshops/blob/main/beginners-guide-to-analyzing-scRNAseq/day-1/The%20Basic%20scRNAseq%20Analysis%20Workflow.pdf)
+-   [Basic sc-RNAseq workflow](https://github.com/hms-immunology/scRNA-workshop/blob/main/day-2/1-Basic-scRNAseq-Analysis-Workflow.pdf)
     -   Main steps for scRNAseq workflow
     -   Intuition behind each step
--   [TBD Normalization & HVG selection](http://htmlpreview.github.io/?https://github.com/CellDiscoveryNetwork/workshops/blob/main/beginners-guide-to-analyzing-scRNAseq/day-1/3-norm-hvg.html)
-    -   Why and how to normalize sc-RNAseq data
-    -   Why and how to select highly variable genes
--   [Quality Control](http://htmlpreview.github.io/?https://github.com/CellDiscoveryNetwork/workshops/blob/main/beginners-guide-to-analyzing-scRNAseq/day-2/5-QC.html) 
+-   [Quality Control](https://github.com/hms-immunology/scRNA-workshop/blob/main/day-2/2-QC.qmd) 
     -   How to carry out QC analysis
     -   What parameters do we need to look at and how to interpret them
     -   Computing doublet scores
     -   Tips and tricks during the QC process
+-   [TBD Normalization & HVG selection](https://github.com/hms-immunology/scRNA-workshop/blob/main/day-2/Suppl-norm-hvg.qmd)
+    -   Why and how to normalize sc-RNAseq data
+    -   Why and how to select highly variable genes
 
 ## Day 3: Tuesday March 4th
 
