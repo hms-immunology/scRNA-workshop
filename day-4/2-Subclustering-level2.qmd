@@ -162,7 +162,7 @@ For many of us, our first idea for finding rare celltypes is to modulate the par
 - `FindNeighbors` k.param, 
 - `FindClusters` resolution
 
-```{r fig.width=9, fig.height=9}
+```{r fig.width=9, fig.height=9, eval=FALSE}
 parameter_df <- expand.grid(
   nf = c(2000, 3000, 5000),
   pc = c(20, 30, 50),
