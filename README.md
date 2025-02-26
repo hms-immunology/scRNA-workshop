@@ -52,7 +52,13 @@
 ## Day 4: Thursday March 6th
 
 -   [Gene Signatures](http://htmlpreview.github.io/?https://github.com/hms-immunology/scRNA-workshop/blob/main/day-4/1-gene-signatures.html)
+    -   What tools can we use to score signatures
+    -   How to interpret score results
+    -   Digging into the genes driving a signature
 -   [Compositional Analysis](http://htmlpreview.github.io/?https://github.com/hms-immunology/scRNA-workshop/blob/main/day-4/2-compositional_analysis.html)
+    -   Normalization methods for compositional data
+    -   Differential abundance analysis
+    -   PCA in compositional space
 
 ## Resources
 
