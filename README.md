@@ -15,42 +15,44 @@
     -   Fundamentals and data wrangling in R
 -   [Introduction to Seurat](https://github.com/hms-immunology/scRNA-workshop/blob/main/day-1/1-Introduction.pdf)
     -   Working with a Seurat object
-
-## Day 2: Thursday Feb 27th
-
 -   [Basic sc-RNAseq workflow](https://github.com/hms-immunology/scRNA-workshop/blob/main/day-2/1-Basic-scRNAseq-Analysis-Workflow.pdf)
     -   Main steps for scRNAseq workflow
     -   Intuition behind each step
+
+## Day 2: Thursday Feb 27th
+
 -   [Quality Control](http://htmlpreview.github.io/?https://github.com/hms-immunology/scRNA-workshop/blob/main/day-2/2-QC.html) 
     -   How to carry out QC analysis
     -   What parameters do we need to look at and how to interpret them
     -   Computing doublet scores
     -   Tips and tricks during the QC process
--   [TBD Normalization & HVG selection](http://htmlpreview.github.io/?https://github.com/hms-immunology/scRNA-workshop/blob/main/day-2/Suppl-norm-hvg.html)
+-   [PCA, Integration & KNN graphs](http://htmlpreview.github.io/?https://github.com/hms-immunology/scRNA-workshop/blob/main/day-3/1-PCA_Harmony_kNN.html)[
+    -   Brief overview on PCA and how to use it for sc-RNAseq
+    -   KNN-graph representation of the data
+    -   Correcting batch effects with Harmony
+-   [Suppl Normalization & HVG selection](http://htmlpreview.github.io/?https://github.com/hms-immunology/scRNA-workshop/blob/main/day-2/Suppl-norm-hvg.html)
     -   Why and how to normalize sc-RNAseq data
     -   Why and how to select highly variable genes
 
 ## Day 3: Tuesday March 4th
 
--   [PCA, Integration & KNN graphs](http://htmlpreview.github.io/?https://github.com/hms-immunology/scRNA-workshop/blob/main/day-3/1-PCA_Harmony_kNN.html)[
-    -   Brief overview on PCA and how to use it for sc-RNAseq
-    -   KNN-graph representation of the data
-    -   Correcting batch effects with Harmony
 -   [Clustering](http://htmlpreview.github.io/?https://github.com/hms-immunology/scRNA-workshop/blob/main/day-3/2-Clustering.html) 
     -   How to cluster sc-RNAseq data
     -   What algorithms can we use
     -   How to assess if a clustering resolution is good
-
-## Day 4: Thursday March 6th
-
 -   [Differential Gene Expression & Level 1 Annotation](http://htmlpreview.github.io/?https://github.com/hms-immunology/scRNA-workshop/blob/main/day-4/1-dge-annot-level1.html) 
     -   How to compute differentially expressed genes between clusters
     -   How to evaluate differential expression statistics
     -   Reference-based cell type annotation
     -   Manual cell type annotation
--   [TBD Subclustering & Level 2 Annotation](http://htmlpreview.github.io/?https://github.com/hms-immunology/scRNA-workshop/blob/main/day-4/2-Subclustering-level2.html) 
+-   [Suppl Subclustering & Level 2 Annotation](http://htmlpreview.github.io/?https://github.com/hms-immunology/scRNA-workshop/blob/main/day-4/2-Subclustering-level2.html) 
     -   What does level 2 annotation mean and why we need it
     -   How to iteratively annotate a dataset
+
+## Day 4: Thursday March 6th
+
+-   [Gene Signatures](http://htmlpreview.github.io/?)
+-   [Compositional Analysis](http://htmlpreview.github.io/?)
 
 ## Resources
 
